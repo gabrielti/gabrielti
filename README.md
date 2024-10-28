@@ -21,6 +21,7 @@
     <img src="https://img.shields.io/badge/-C-333?style=for-the-badge&logo=c&logoColor=white" />
     <img src="https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5&logoColor=orange" />
     <img src="https://img.shields.io/badge/-CSS-333?style=for-the-badge&logo=css3&logoColor=blue" />
+    <img src="https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript&logoColor=yellow" />
 </div>
 
 ---
