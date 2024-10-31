@@ -7,9 +7,12 @@
 ### 📊 Minhas Estatísticas no GitHub
 
 ![Gabriel Taki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielti&show_icons=true&theme=dark)
-# Meu Projeto
 
-Um projeto incrível com um terminal em ASCII!
+
+### 📌 Linguagens Mais Usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielti&layout=compact&theme=dark&v=1)
+
 
 ```plaintext
 ┌───────────────────────────────────────────────────────────────────────────────┐
@@ -31,14 +34,7 @@ Um projeto incrível com um terminal em ASCII!
 │ │ user@host:~/Documents$                                                    │ │
 │ └───────────────────────────────────────────────────────────────────────────┘ │
 └───────────────────────────────────────────────────────────────────────────────┘
-
-
-### 📌 Linguagens Mais Usadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielti&layout=compact&theme=dark&v=1)
-
-
----
+``` 
 
 ### 🚀 Tecnologias que Trabalho
 
