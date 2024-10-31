@@ -17,6 +17,8 @@
 ### 🚀 Tecnologias que Trabalho
 
 <div style="display: flex; gap: 10px;">
+    <img src="https://img.shields.io/badge/-Linux-333?style=for-the-badge&logo=linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Ubuntu-333?style=for-the-badge&logo=ubuntu&logoColor=orange" />
     <img src="https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python&logoColor=ffdd54" />
     <img src="https://img.shields.io/badge/-C-333?style=for-the-badge&logo=c&logoColor=white" />
     <img src="https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5&logoColor=orange" />
