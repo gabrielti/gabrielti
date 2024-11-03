@@ -5,12 +5,12 @@
 ---
 
 ### 📊 Minhas Estatísticas no GitHub
+
 ![Gabriel Taki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielti&show_icons=true&theme=dark)
 
 
 ### 📌 Linguagens Mais Usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielti&layout=compact&theme=dark&v=1)
 
 ### 🚀 Tecnologias que Trabalho
 
