@@ -29,4 +29,4 @@
 
 ### 🚧 Atualmente Trabalhando em
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielti&repo=projeto_web_foxnet&theme=dark)](https://github.com/gabrielti/curso_prog_competitiva_utfpr)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielti&repo=curso_prog_competitiva_utfpr&theme=dark)](https://github.com/gabrielti/curso_prog_competitiva_utfpr)
