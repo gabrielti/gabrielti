@@ -11,6 +11,7 @@
 
 ### 📌 Linguagens Mais Usadas
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielti&layout=compact&theme=dark&v=1)
 
 ### 🚀 Tecnologias que Trabalho
 
@@ -28,4 +29,4 @@
 
 ### 🚧 Atualmente Trabalhando em
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielti&repo=projeto_web_foxnet&theme=dark)](https://github.com/gabrielti/projeto_web_foxnet)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielti&repo=projeto_web_foxnet&theme=dark)](https://github.com/gabrielti/prog_competitiva_utfpr)
