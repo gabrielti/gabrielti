@@ -5,7 +5,6 @@
 ---
 
 ### 📊 Minhas Estatísticas no GitHub
-
 ![Gabriel Taki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielti&show_icons=true&theme=dark)
 
 
