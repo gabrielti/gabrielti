@@ -23,6 +23,9 @@
     <img src="https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5&logoColor=orange" />
     <img src="https://img.shields.io/badge/-CSS-333?style=for-the-badge&logo=css3&logoColor=blue" />
     <img src="https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript&logoColor=yellow" />
+    <img src="https://img.shields.io/badge/-PostgreSQL-333?style=for-the-badge&logo=postgresql&logoColor=yellow" />
+    <img src="https://img.shields.io/badge/-MySQL-333?style=for-the-badge&logo=mysql&logoColor=yellow" />
+    <img src="https://img.shields.io/badge/-Rust-333?style=for-the-badge&logo=rust&logoColor=yellow" />
 </div>
 
 ---
